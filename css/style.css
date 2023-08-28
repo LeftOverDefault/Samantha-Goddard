@@ -71,7 +71,7 @@ header::before {
     background: linear-gradient(to right, var(--teal-dark), var(--teal-light));
     color: var(--text-light);
     opacity: 0;
-    transition: 0.75s ease, background 2s ease, color 0.5s ease;
+    transition: 0.75s ease, background 2s ease;
     z-index: 0;
 }
 
@@ -80,6 +80,7 @@ header.scrolled::before {
 }
 
 .logo {
+    background: url("../img/logo.png");
     user-select: none;
     padding-left: 2vw;
     font-size: 1.75rem;
@@ -142,6 +143,15 @@ header.scrolled::before {
 
 .hero {
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 95%, rgba(0, 0, 0, 0.5)) 5%, url("../img/main-banner.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75%;
+    z-index: 0;
+}
+
+.working-with-me-hero {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 95%, rgba(0, 0, 0, 0.5)) 5%, url("../img/working-with-me.jpg");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -471,4 +481,58 @@ footer {
     padding-right: 30px;
     background: var(--white);
     color: var(--text-dark);
+}
+
+.card-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 75px;
+}
+
+.card-wrapper .card {
+    border-radius: 6px;
+    width: 300px;
+    box-shadow: 0px 0px 15px #00000075;
+}
+
+.card-wrapper .card img {
+    width: 100%;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.card-wrapper .card .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: -5px;
+    border: 1px solid #75757575;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    padding: 15px;
+    padding-bottom: 0;
+    height: 300px;
+}
+
+.card-wrapper .card .card-body .card-title {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.card-wrapper .card .card-body .card-text {
+    font-weight: 400;
+    font-size: 1rem;
+    padding-top: 10px;
+}
+
+.price {
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 1rem;
+    color: var(--teal-light);
 }
