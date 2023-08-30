@@ -30,6 +30,11 @@
     --teal-dark: #364442;
 }
 
+@font-face {
+    font-family: Brittany;
+    src: url("../fonts/BrittanySignature.ttf");
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -81,9 +86,10 @@ header.scrolled::before {
 
 .logo {
     user-select: none;
+    font-family: Brittany;
     padding-left: 2vw;
     font-size: 1.75rem;
-    font-weight: 800;
+    font-weight: 600;
     z-index: 1;
 }
 
