@@ -110,10 +110,10 @@
             <div class="logo-container">
                 <a href="https://www.accph.org.uk/england/sevenoaks/therapists-and-coaches/samantha-goddard"
                     target="_blank">
-                    <img src="../img/accph-senior-member-logo.png" alt="ACCPH">
+                    <img src="./img/accph-senior-member-logo.png" alt="ACCPH">
                 </a>
                 <a href="https://professionals.rtt.com/professionals/samantha-goddard/" target="_blank">
-                    <img src="../img/rtt-logo.png" alt="Rapid Transformational Therapy">
+                    <img src="./img/rtt-logo.png" alt="Rapid Transformational Therapy">
                 </a>
             </div>
         </div>
