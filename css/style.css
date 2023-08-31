@@ -541,7 +541,7 @@ header.scrolled::before {
     border-bottom-right-radius: 6px;
     padding: 15px;
     padding-bottom: 0;
-    /* height: 260px; */
+    background: var(--white);
 }
 
 .card-wrapper .card .card-body .card-title {
