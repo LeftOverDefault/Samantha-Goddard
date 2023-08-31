@@ -1,7 +1,7 @@
     <header>
         <h2 class="logo">Samantha Goddard</h2>
         <nav class="navbar">
-            <li><a id="navbar-item-home" href="./home" onclick="this.classList.add('active')">Home</a></li>
+            <li><a id="navbar-item-home" href="./" onclick="this.classList.add('active')">Home</a></li>
             <li><a id="navbar-item-whatisrtt" href="./whatisrtt">What Is RTT</a></li>
             <li><a id="navbar-item-workingwithme" href="./workingwithme">Working With Me</a></li>
             <li><a id="navbar-item-audios" href="./audios">Audios</a></li>
