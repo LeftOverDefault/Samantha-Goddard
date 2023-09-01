@@ -1,6 +1,7 @@
     <section class="whatisrtt-hero">
         <div class="hero-text">
-            <h1>Hero Text</h1>
+            <h1>Transform Your Subconscious</h1>
+            <h4></h4>
         </div>
     </section>
 
@@ -12,7 +13,7 @@
                     by world-renowned therapist Marisa Peer. It combines the most effective principles of Hypnotherapy,
                     NLP, Psychotherapy and Cognitive Behavioural Therapy to bring unparalleled results in one to three
                     sessions.</p>
-                <p>"Understanding is power and understanding in hypnosis is the most phenomenal power." Marisa Peer</p>
+                <p><i>"Understanding is power and understanding in hypnosis is the most phenomenal power."</i> Marisa Peer</p>
                 <p>Your mind holds the information you need to understand the cause of what is holding you back and this
                     method ensures you find it quickly and easily. Empowering your mind to tell your body what to do, so
                     things like depression, anxiety, and weight issues can be permanently overcome.</p>

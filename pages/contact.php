@@ -1,6 +1,7 @@
     <section class="contact-hero">
         <div class="hero-text">
-            <h1>Hero Text</h1>
+            <h1>Get In Touch</h1>
+            <h4>The Easiest Way To Create Change Is To Take Action.</h4>
         </div>
     </section>
 

@@ -1,7 +1,7 @@
     <section class="working-with-me-hero">
         <div class="hero-text">
-            <h1>Rapid Transformational Therapy</h1>
-            <h4>Freedom from Anxiety, Low Self-Esteem, Weight & Eating Issues</h4>
+            <h1>A Safe Space</h1>
+            <h4>For You To Shed Unwanted Habits And Create A Happier, Healthier Way Of Being.</h4>
         </div>
     </section>
 
@@ -10,8 +10,8 @@
             <h2>Working With Me</h2>
             <div class="text">
                 <p>If you have spent years dieting and battling with unwanted weight only to find yourself back where
-                    you started, then it’s time to try a different approach. To truly transform your relationship with
-                    food and your body, you need to uncover the root cause that’s keeping you stuck. You hold the key to
+                    you started, then it's time to try a different approach. To truly transform your relationship with
+                    food and your body, you need to uncover the root cause that's keeping you stuck. You hold the key to
                     unlocking your natural ability to enjoy a relaxed and healthy relationship with food and yourself.
                     The answers are all in your subconscious mind. I simply facilitate you in getting the understanding
                     and awareness. Once you are aware, you cannot help but change.</p>
@@ -22,13 +22,13 @@
                     natural state of being.</p>
                 <p>You have complete control the whole time. You can talk, move your body, get a tissue, even get up to
                     use the loo! If your session is over Zoom and our call gets disconnected you may drift into sleep if
-                    you’re really relaxed, but eventually you’ll notice that you’re not hearing my voice and open your
+                    you're really relaxed, but eventually you'll notice that you're not hearing my voice and open your
                     eyes and reconnect our call.</p>
-                <p>Hypnosis is not magic, it’s science. It’s very easy and anyone can do it. Please don’t worry about
-                    whether you’re doing it right, just relax and know that it is working.</p>
-                <p>If you’re ready to have a chat with me about what you’ve been struggling with and how I can help,
-                    just click on the button below and book a free call. There’s no pressure to work with me or sign up,
-                    it’s simply an informal chat for you to find out more and start to feel better.</p>
+                <p>Hypnosis is not magic, it's science. It's very easy and anyone can do it. Please don't worry about
+                    whether you're doing it right, just relax and know that it is working.</p>
+                <p>If you're ready to have a chat with me about what you've been struggling with and how I can help,
+                    just click on the button below and book a free call. There's no pressure to work with me or sign up,
+                    it's simply an informal chat for you to find out more and start to feel better.</p>
             </div>
             <div class="button-container">
                 <a href="https://app.10to8.com/book/speaktosam/" target="_blank">
@@ -93,7 +93,7 @@
                     <div class="card-body">
                         <h5 class="card-title">One to One Coaching calls</h5>
                         <p class="card-text">If you want a one off call, or regular coaching calls to help and support
-                            you through any challenges life may have thrown you please get in touch and we’ll make it
+                            you through any challenges life may have thrown you please get in touch and we'll make it
                             happen.</p>
                         <!-- <div class="price">30 minutes £60</div> -->
                         <!-- <div class="price">1 hour £120</div> -->

@@ -1,7 +1,7 @@
     <section class="hero">
-        <div class="hero-text">
+        <div class="hero-text" style="top: 20%;">
             <h1>Rapid Transformational Therapy</h1>
-            <h4>Freedom from Anxiety, Low Self-Esteem, Weight & Eating Issues</h4>
+            <h4>Freedom from Anxiety, Low Self-Esteem, Weight & Eating Issues.</h4>
         </div>
     </section>
 

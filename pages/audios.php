@@ -1,6 +1,7 @@
     <section class="audios-hero">
         <div class="hero-text">
-            <h1>Hero Text</h1>
+            <h1>Communicate With Your Mind</h1>
+            <h4>Stop Battling With Yourself, There Is An Easier Way.</h4>
         </div>
     </section>
 

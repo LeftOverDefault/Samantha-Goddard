@@ -2,7 +2,7 @@
         <div class="footer-main-wrapper">
             <div class="footer-item">
                 <ul>
-                    <li><a href="https://goo.gl/maps/62DxY5B6QNRFjxkM9">TN14 5PR,<br>7 The Butts, Otford</a></li>
+                    <li><a href="https://goo.gl/maps/P6qKajLMx9qyf4uUA" target="_blank">Sevenoaks, Kent</a></li>
                 </ul>
             </div>
             <div class="footer-item-socials">
