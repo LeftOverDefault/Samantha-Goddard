@@ -5,9 +5,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Samantha Goddard</title>
+    <?php include_once('./pages/header.php'); ?>
+
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Rapid Transformational Therapy with Samantha Goddard, Hypnotherapy, Sevenoaks, Tunbridge Wells, Tonbridge, Kent, Online" />
+    <meta property="og:description" content="Hypnotherapy near me, RTT Therapy, RTT near me, Hypnotherapist, Therapist, Weight loss, Emotional eating issues, Anxiety, Panic attacks, Self sabotage, Limiting beliefs, Low self esteem, Depression, Public speaking, Confidence, Insomnia, Sleep issues" />
+    <meta property="og:url" content="https://www.samantha-goddard.com/" />
+    <meta property="og:site_name" content="Samantha Goddard | Rapid Transformational Therapy" />
+    <meta property="article:modified_time" content="2023-07-01T08:45:38+00:00" />
+    <meta property="og:image" content="https://www.samantha-goddard.com/img/main-banner.jpg" />
+    <meta property="og:image:width" content="1920" />
+    <meta property="og:image:height" content="974" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico">
     <link rel="icon" type="image/x-icon" href="./img/favicon.ico">
     <link rel="stylesheet" href="./css/style.css">
-    <!-- <meta http-equiv="refresh" content="0; url=http://samantha-goddard/?p=home" /> -->
 </head>
 
 <body>
