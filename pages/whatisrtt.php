@@ -1,7 +1,7 @@
     <section class="whatisrtt-hero">
         <div class="hero-text">
-            <h1>Transform Your Subconscious</h1>
-            <h4></h4>
+            <h1>A Therapeutic Approach For Positive Change</h1>
+            <h4>Using Powerful, Evidence-Based Techniques To Give You The Tools You Need To Create Lasting Change.</h4>
         </div>
     </section>
 

@@ -76,41 +76,81 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="../img/phone.jpg" alt="One to One Coaching calls, hypnotherapy, RTT, Samantha Goddard">
+                    <img src="../img/anxiety-help-hypnosis.jpg" alt="One to One Coaching calls, hypnotherapy, RTT, Samantha Goddard">
                     <div class="card-body">
-                        <h5 class="card-title">Clutter Clearing Masterclass</h5>
-                        <h6>One hour video & printouts</h6>
-                        <p class="card-text">If you feel a bit "all over the place," with a mind like spaghetti, if
-                            you're frequently late and keep procrastinating.</p>
-                        <p class="card-text">It's highly likely your home is reflecting this chaotic state. Your outer
-                            environment is a mirror of what is going on internally.</p>
-                        <p class="card-text">I am all about transformation, specialising in well-being, weight loss &
-                            great health. Clutter clearing comes under this umbrella. In my Clutter Clearing Masterclass
-                            I talk about how weight loss, feeling stuck and clutter are related.</p>
-                        <p class="card-text">If you are ready to make space for new opportunities to come into your
-                            life, improve your focus, and feel more organised. Register now for my unique one-hour
-                            masterclass.</p>
-                        <p class="card-text">
-                            Learn how your clutter keeps you stuck in the past and affects how you feel. Includes a
-                            brief intro to Feng Shui. Get my top tips on preparation, so you can avoid overwhelm,
-                            frustration and simply moving clutter from one area to another.</p>
-                        <p class="card-text">Feel inspired to get started and release huge amounts of energy and
-                            increase your motivation.</p>
+                        <h5 class="card-title">Feel Calm & At Ease</h5>
+                        <h6>30-day Programme</h6>
+                        <p class="card-text">If you are stuck in a heightened state of anxiety, use this hypnotic audio 
+                            to help you feel calmer and back in control of your thoughts and feelings.
                         </p>
-                        <div class="price">£33</div>
+                        <p class="card-text">
+                            This Hypnotic Audio is for adults feeling worried, anxious, stressed, or overwhelmed. 
+                            It will help you to take back control from negative looping thoughts and reconnect you 
+                            to your powerful ability to create better thoughts.
+                        </p>
+                        <p class="card-text">
+                            You'll be able to downregulate your nervous system, release tension from your body and let 
+                            go of unhelpful thoughts. Whilst being shown how to dialogue with mind in a more constructive 
+                            way.
+                        </p>
+                        <p class="card-text">
+                            The mind learns by repetition, so it's important you listen every day for at least 30 days.
+                        </p>
+                        <div class="price">£44</div>
                         <div class="button-container">
-                            <a href="https://buy.stripe.com/aEU02RfQU2tVfDO3ce" target="_blank">
+                            <a href="https://form.jotform.com/SamGoddard/feel-calm" target="_blank">
                                 <button type="button" class="button">Register Here</button>
                             </a>
                         </div>
-                        <p class="card-text" style="font-weight: 500; font-size: 1.05rem; color: var(--teal-light);">
-                            <i>"Instead of becoming overwhelmed and frustrated I just got started!"</i> Judy
-                        </p>
-                        <p class="card-text" style="font-weight: 500; font-size: 1.05rem; color: var(--teal-light);">
-                            <i>"Who knew clutter clearing would be so therapeutic."</i> Julie
-                        </p>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="clutter-clearing-hero"></section>
+    
+    <section class="main">
+        <div class="section">
+            <h2>Clutter Clearing Masterclass</h2>
+            <h3>One hour video & printouts</h3>
+            <div class="text">
+                <p>
+                    If you feel a bit "all over the place," with a mind like spaghetti, if you're frequently late and keep procrastinating. It's highly likely your home is reflecting this chaotic state. Your outer environment is a mirror of what is going on internally.
+                </p>
+                <p>
+                    I am all about transformation, specialising in well-being, weight loss &
+                    great health. Clutter clearing comes under this umbrella. In my Clutter Clearing Masterclass
+                    I talk about how weight loss, feeling stuck and clutter are related. 
+                </p>
+                <p>
+                    If you are ready to make space for new opportunities to come into your
+                    life, improve your focus, and feel more organised. Register now for my unique one-hour
+                    masterclass.
+                </p>
+                <p>
+                    Learn how your clutter keeps you stuck in the past and affects how you feel. Includes a
+                    brief intro to Feng Shui. Get my top tips on preparation, so you can avoid overwhelm,
+                    frustration and simply moving clutter from one area to another.
+                </p>
+                <p>
+                    Feel inspired to get started and release huge amounts of energy and
+                    increase your motivation.
+                </p>
+            </div>
+            <div class="button-container">
+                <a href="https://buy.stripe.com/aEU02RfQU2tVfDO3ce" target="_blank">
+                    <button type="button" class="button">Register Here</button>
+                </a>
+            </div>
+            <div class="container">
+                <div class="price" style="font-size: 1.5rem;">£33</div>
+                <p style="font-weight: 500; font-size: 1.05rem; color: var(--teal-light);">
+                    <i>"Instead of becoming overwhelmed and frustrated I just got started!"</i> Judy
+                </p>
+                <p style="font-weight: 500; font-size: 1.05rem; color: var(--teal-light);">
+                    <i>"Who knew clutter clearing would be so therapeutic."</i> Julie
+                </p>
             </div>
         </div>
     </section>

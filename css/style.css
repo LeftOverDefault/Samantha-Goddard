@@ -296,6 +296,15 @@ header.scrolled::before {
     z-index: 0;
 }
 
+.clutter-clearing-hero {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 95%, rgba(0, 0, 0, 0.5)) 5%, url("../img/phone.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75%;
+    z-index: 0;
+}
+
 .contact-hero {
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 95%, rgba(0, 0, 0, 0.5)) 5%, url("../img/contact.jpg");
     background-position: top;
@@ -577,7 +586,7 @@ header.scrolled::before {
     z-index: 0;
 }
 
-.success-stories-header-text {
+.success-stories-header .success-stories-header-text {
     color: var(--text-dark);
     background: #fbf7f5D0;
     padding-left: 15px;
@@ -594,12 +603,22 @@ header.scrolled::before {
     max-width: 750px;
 }
 
-.success-stories-header-text h2 {
+.success-stories-header .success-stories-header-text h1 {
     padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+
+.success-stories-header .success-stories-header-text h4 {
+    padding-top: 5px;
     padding-bottom: 15px;
     padding-left: 15px;
     padding-right: 15px;
-    font-size: 2.25rem;
+    font-size: 1.5rem;
     font-weight: 700;
 }
 
@@ -699,7 +718,16 @@ header.scrolled::before {
     padding-bottom: 10px;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 25px;
+}
+
 .price {
+    padding-bottom: 10px;
     padding-top: 10px;
     font-weight: 500;
     font-size: 1rem;

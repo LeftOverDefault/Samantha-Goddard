@@ -149,8 +149,9 @@
     </section>
 
     <section class="success-stories-header">
-        <div class="success-stories-header-text header-text">
-            <h2>Success Stories</h2>
+        <div class="success-stories-header-text">
+            <h1>My Clients Experience of RTT</h1>
+            <h4>“You're And Angel Sent To Heal Souls.” Paras</h4>
         </div>
     </section>
 
