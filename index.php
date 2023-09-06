@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Samantha Goddard</title>
+
     <?php include_once('./pages/header.php'); ?>
 
     <meta property="og:locale" content="en_GB" />

@@ -860,6 +860,11 @@ footer .footer-main-wrapper .footer-item-socials ul.socials li a img {
         top: 5%;
     }
 
+    .section .logo-container {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
     footer .footer-main-wrapper {
         flex-direction: column;
         justify-content: center;
