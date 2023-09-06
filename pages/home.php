@@ -36,7 +36,7 @@
                 <a href="https://app.10to8.com/book/speaktosam/" target="_blank">
                     <button type="button" class="button">Book A Call</button>
                 </a>
-                <a href="./pages/whatisrtt.html">
+                <a href="./whatisrtt">
                     <button type="button" class="button">What Is RTT</button>
                 </a>
             </div>
@@ -141,7 +141,7 @@
                 <a href="https://app.10to8.com/book/speaktosam/" target="_blank">
                     <button type="button" class="button">Book A Call</button>
                 </a>
-                <a href="./pages/workingwithme.html">
+                <a href="./workingwithme">
                     <button type="button" class="button">Working With Me</button>
                 </a>
             </div>

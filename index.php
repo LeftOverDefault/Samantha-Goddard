@@ -32,7 +32,7 @@
         if (isset($_GET["p"])) {
             $current_page = $_GET["p"];
         } else {
-            $current_page = "home";
+            $current_page = "";
         }
 
         switch ($current_page) {
@@ -48,11 +48,8 @@
             case "whatisrtt":
                 include_once("./pages/whatisrtt.php");
                 break;
-            case "home":
-                include_once("./pages/home.php");
-                break;
             default:
-                include_once("./pages/404.php");
+                include_once("./pages/home.php");
                 break;
             }
             ?>
