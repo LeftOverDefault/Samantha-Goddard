@@ -151,7 +151,7 @@
     <section class="success-stories-header">
         <div class="success-stories-header-text">
             <h1>My Clients Experience of RTT</h1>
-            <h4>“You're And Angel Sent To Heal Souls.” Paras</h4>
+            <h4>“You're An Angel Sent To Heal Souls.” Paras</h4>
         </div>
     </section>
 
