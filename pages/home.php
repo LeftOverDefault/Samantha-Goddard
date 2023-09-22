@@ -185,7 +185,7 @@
                         <h6 class="success-location">Tonbridge</h6>
                     </div>
                     <div class="success-item">
-                        <img style="border-radius: 50%;" src="./img/avatar.png" class="img img-fluid" alt="Lauren">
+                        <img style="border-radius: 50%;" src="./img/lauren.jpeg" class="img img-fluid" alt="Lauren">
                         <div class="success-text">“Sam has helped me rewire my thinking on baggage I was carrying around
                             for 27 years, and the trajectory I am on keeps bringing new wins. Learning to manage myself
                             and my response better when life may feel overwhelming. Achieving a sense of calm that
