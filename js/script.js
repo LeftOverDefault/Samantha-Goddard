@@ -1,10 +1,23 @@
+const menuToggle = document.querySelector(".menu");
+const navbar = document.querySelector(".navbar");
+
+
+menuToggle.addEventListener("click", () => {
+    if (menuToggle.id === "active") {
+        menuToggle.id = "inactive";
+    } else {
+        menuToggle.id = "active";
+    }
+});
 
 document.addEventListener("scroll", () => {
-    const header = document.querySelector("header");
-
     if (window.scrollY > 0) {
-        header.classList.add("scrolled");
+        navbar.classList.add("scrolled");
     } else {
-        header.classList.remove("scrolled");
+        navbar.classList.remove("scrolled");
     }
+}, true);
+
+menuToggle.addEventListener("blur", () => {
+    menuToggle.id = "inactive";
 });
