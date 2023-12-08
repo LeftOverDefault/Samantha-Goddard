@@ -1,6 +1,11 @@
 const menuToggle = document.querySelector(".menu");
 const navbar = document.querySelector(".navbar");
 
+document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+        menuToggle.id = "inactive";
+    }
+});
 
 menuToggle.addEventListener("click", () => {
     if (menuToggle.id === "active") {
@@ -17,7 +22,3 @@ document.addEventListener("scroll", () => {
         navbar.classList.remove("scrolled");
     }
 }, true);
-
-menuToggle.addEventListener("blur", () => {
-    menuToggle.id = "inactive";
-});
