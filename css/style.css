@@ -333,7 +333,7 @@ nav.navbar .nav-item .menu .dropdown-container ul li a:focus::after {
 }
 
 .section-container section .subtitle {
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     font-size: 28px;
     font-weight: 700;
 }
@@ -348,8 +348,8 @@ nav.navbar .nav-item .menu .dropdown-container ul li a:focus::after {
     padding-right: 10px;
     padding-bottom: 10px;
     text-align: left;
+    font-size: 20px;
     font-weight: 400;
-    font-size: 18px;
 }
 
 .section-container section .content ul {
