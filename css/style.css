@@ -232,7 +232,8 @@ nav.navbar .nav-item .menu .dropdown-container ul li a::after {
 }
 
 nav.navbar .nav-item .menu .dropdown-container ul li a:hover::after,
-nav.navbar .nav-item .menu .dropdown-container ul li a:focus::after {
+nav.navbar .nav-item .menu .dropdown-container ul li a:focus::after,
+nav.navbar .nav-item .menu .dropdown-container ul li a.active::after {
     transform: scaleX(1);
     transform-origin: left;
 }
@@ -323,7 +324,7 @@ nav.navbar .nav-item .menu .dropdown-container ul li a:focus::after {
     border-top-right-radius: 15px;
 }
 
-.success-stories {
+.successstories {
     position: relative;
     height: 500px;
     width: 100%;
@@ -335,14 +336,14 @@ nav.navbar .nav-item .menu .dropdown-container ul li a:focus::after {
     z-index: 0;
 }
 
-.success-stories .filter {
+.successstories .filter {
     z-index: 0;
     width: 100%;
     height: 100%;
     backdrop-filter: brightness(0.9);
 }
 
-.success-stories .text-container {
+.successstories .text-container {
     position: absolute;
     display: flex;
     align-items: center;
@@ -355,7 +356,171 @@ nav.navbar .nav-item .menu .dropdown-container ul li a:focus::after {
     margin-right: 30px;
 }
 
-.success-stories .text-container h1 {
+.successstories .text-container h1 {
+    padding: 20px;
+    width: 100%;
+    color: var(--text-dark);
+    background: #F3EfEDE0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.contact {
+    position: relative;
+    height: 500px;
+    width: 100%;
+    background-image: url("../img/phone.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    aspect-ratio: auto;
+    z-index: 0;
+}
+
+.contact .filter {
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: brightness(0.9);
+}
+
+.contact .text-container {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    text-align: center;
+    width: calc(100% - 60px);
+    height: 500px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.contact .text-container h1 {
+    padding: 20px;
+    width: 100%;
+    color: var(--text-dark);
+    background: #F3EfEDE0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.whatisrtt {
+    position: relative;
+    height: 500px;
+    width: 100%;
+    background-image: url("../img/what-is-rtt.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    aspect-ratio: auto;
+    z-index: 0;
+}
+
+.whatisrtt .filter {
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: brightness(0.9);
+}
+
+.whatisrtt .text-container {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    text-align: center;
+    width: calc(100% - 60px);
+    height: 500px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.whatisrtt .text-container h1 {
+    padding: 20px;
+    width: 100%;
+    color: var(--text-dark);
+    background: #F3EfEDE0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.workingwithme {
+    position: relative;
+    height: 500px;
+    width: 100%;
+    background-image: url("../img/working-with-me.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    aspect-ratio: auto;
+    z-index: 0;
+}
+
+.workingwithme .filter {
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: brightness(0.9);
+}
+
+.workingwithme .text-container {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    text-align: center;
+    width: calc(100% - 60px);
+    height: 500px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.workingwithme .text-container h1 {
+    padding: 20px;
+    width: 100%;
+    color: var(--text-dark);
+    background: #F3EfEDE0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.audios {
+    position: relative;
+    height: 500px;
+    width: 100%;
+    background-image: url("../img/hypnoticaudio.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    aspect-ratio: auto;
+    z-index: 0;
+}
+
+.audios .filter {
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: brightness(0.9);
+}
+
+.audios .text-container {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    text-align: center;
+    width: calc(100% - 60px);
+    height: 500px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.audios .text-container h1 {
     padding: 20px;
     width: 100%;
     color: var(--text-dark);
@@ -649,6 +814,20 @@ footer .footer-main-wrapper .footer-item-socials ul.socials li a img {
     font-size: 22px;
     font-weight: 500;
     transition: box-shadow 0.5s ease, background 0.5s ease, color 0.5s ease, transform 0.5s ease;
+}
+
+.section-container section:nth-child(even) .content .button-container a button {
+    color: var(--text-dark);
+    background: var(--off-white);
+    border: 2px solid var(--off-white);
+}
+
+.section-container section:nth-child(even) .content .button-container a button:hover,
+.section-container section:nth-child(even) .content .button-container a button:focus {
+    transform: translateY(-10px);
+    background: transparent;
+    box-shadow: 0px 5px 15px #00000050;
+    color: var(--off-white);
 }
 
 .button-container a button:hover,
