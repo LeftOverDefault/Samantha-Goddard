@@ -30,8 +30,8 @@
             default:
                 include_once("./pages/home.php");
                 break;
-            }
-            ?>
+        }
+    ?>
 
     <?php include_once("./include/footer.php"); ?>
 

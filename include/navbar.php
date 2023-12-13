@@ -1,6 +1,6 @@
 <nav class="navbar">
     <div class="nav-item">
-        <a href="#">
+        <a href="./">
             <h1 class="logo">Samantha Goddard</h1>
         </a>
     </div>
