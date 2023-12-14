@@ -229,6 +229,9 @@ nav.navbar .nav-item .menu .dropdown-container ul li a::after {
     transform: scaleX(0);
     transform-origin: right;
     transition: transform 0.5s ease;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
 }
 
 nav.navbar .nav-item .menu .dropdown-container ul li a:hover::after,
@@ -370,7 +373,7 @@ nav.navbar .nav-item .menu .dropdown-container ul li a.active::after {
     height: 500px;
     width: 100%;
     background-image: url("../img/phone.jpg");
-    background-position: right;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     aspect-ratio: auto;
@@ -784,12 +787,12 @@ footer .footer-main-wrapper .footer-item-socials ul.socials li a img {
     position: relative;
     display: flex;
     align-items: center;
+    align-self: center;
     justify-content: center;
     flex-direction: column;
     gap: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
-    align-self: center;
 }
 
 .button-container a {
@@ -812,11 +815,21 @@ footer .footer-main-wrapper .footer-item-socials ul.socials li a img {
     cursor: pointer;
     color: var(--text-light);
     font-size: 22px;
-    font-weight: 500;
+    font-weight: 600;
     transition: box-shadow 0.5s ease, background 0.5s ease, color 0.5s ease, transform 0.5s ease;
 }
 
+.button-container a button:hover,
+.button-container a button:focus {
+    transform: translateY(-10px);
+    background: transparent;
+    box-shadow: 0px 5px 15px #00000050;
+    color: var(--teal-light);
+}
+
 .section-container section:nth-child(even) .content .button-container a button {
+    font-size: 22px;
+    font-weight: 600;
     color: var(--text-dark);
     background: var(--off-white);
     border: 2px solid var(--off-white);
@@ -828,14 +841,6 @@ footer .footer-main-wrapper .footer-item-socials ul.socials li a img {
     background: transparent;
     box-shadow: 0px 5px 15px #00000050;
     color: var(--off-white);
-}
-
-.button-container a button:hover,
-.button-container a button:focus {
-    transform: translateY(-10px);
-    background: transparent;
-    box-shadow: 0px 5px 15px #00000050;
-    color: var(--teal-light);
 }
 
 /* ------------------------------ */

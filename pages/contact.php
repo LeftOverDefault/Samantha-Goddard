@@ -10,7 +10,7 @@
         <div class="content">
             <p>When you contact me, it will be me that answers, not some computer or call centre. When you're ready to take the next step let's have a chat about how we can work together.</p>
 
-            <p>Alternatively feel free to email me at <a class="mailto:sam@samantha-goddard.com">sam@samantha-goddard.com</a> or connect with me on social. I look forward to hearing from you.</p>
+            <p>Alternatively feel free to email me at <a href="mailto:sam@samantha-goddard.com">sam@samantha-goddard.com</a> or connect with me on social. I look forward to hearing from you.</p>
         </div>
         <div class="button-container">
             <a href="https://app.10to8.com/book/speaktosam/" target="_blank">
