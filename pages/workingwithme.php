@@ -31,15 +31,15 @@
             <p>RTT&#174; is effective in treating:</p>
             <ul>
                 <li>Anxiety</li>
-                <li>Depression & Low Mood</li>
+                <li>Depression &amp; Low Mood</li>
                 <li>Eating Issues</li>
                 <li>Weight Issues</li>
-                <li>Guilt & Shame</li>
-                <li>Stress & Overwhelm</li>
+                <li>Guilt &amp; Shame</li>
+                <li>Stress &amp; Overwhelm</li>
                 <li>Low Self Esteem</li>
                 <li>Self Confidence Issues</li>
-                <li>Insomnia & Sleep Issues</li>
-                <li>Fears & Phobias</li>
+                <li>Insomnia &amp; Sleep Issues</li>
+                <li>Fears &amp; Phobias</li>
                 <li>Lack of Motivation</li>
                 <li>Public Speaking</li>
                 <li>Exam Anxiety</li>
@@ -52,11 +52,35 @@
     <section>
         <h1 class="title">Ways We Can Work Together</h1>
         <div class="content">
-            <!-- 
-
-            CONTENT
-
-            -->
+            <div class="card-container">
+                <div class="card">
+                    <img src="./img/laptop.jpg" alt="">
+                    <h1 class="title">Feel Empowered</h1>
+                    <h3 class="subtitle">1 Month Programme</h3>
+                    <div class="content">
+                        <p>A Rapid Transformational Therapy Session (1.5 to 2 hours). A Bespoke Hypnotic Recording, to code in new supportive beliefs and overwrite old redundant patterns. Weekly Follow Up Calls, for the duration of your programme (20 minutes each). Includes a Power Hour Session at the end of your programme.</p>
+                        <p>Ideal for increasing confidence, overcoming procrastination, fear of public speaking or exam nerves, also for recommended for some sleep issues, fears and phobias.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="./img/notebook.jpg" alt="">
+                    <h1 class="title">Life Transformation</h1>
+                    <h3 class="subtitle">1 Month Programme</h3>
+                    <div class="content">
+                        <p>Three Rapid Transformational Therapy Sessions (1.5 to 2 hours per session) 3 Bespoke Hypnotic Recordings to code in new supportive beliefs and overwrite old redundant patterns. Weekly Follow Up Calls, for the duration of your programme (20 minutes).</p>
+                        <p>Recommended for weight and eating issues, anxiety, depression, alcohol addiction, Stress, and issues you've had for many years.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="./img/phone.jpg" alt="">
+                    <h1 class="title">Ongoing Support</h1>
+                    <div class="content">
+                        <p>Following your treatment programme, you may decide to continue working with me, either one to one or by joining one of my group programmes.</p>
+                        <p>This has proven useful for those on weight loss journeys, and experiencing big life transitions like changing jobs, getting married, moving home/country.</p>
+                        <p>It's a great way to continue to celebrate your successes and keep you on target to your long term goals, feeling supported, motivated and accountable.</p>
+                    </div>
+                </div>
+            </div>
             <div class="button-container">
                 <a href="https://app.10to8.com/book/speaktosam/" target="_blank">
                     <button type="button" class="button">Book A Call</button>

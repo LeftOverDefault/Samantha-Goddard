@@ -116,32 +116,32 @@ nav.navbar .nav-item .menu .menu-wrapper span {
 
 nav.navbar .nav-item .menu#inactive .menu-wrapper span:first-child {
 	animation: rotate-out forwards;
-	animation-duration: 1.5s;
+	animation-duration: 1s;
 }
 
 nav.navbar .nav-item .menu#inactive .menu-wrapper span:nth-child(2) {
 	animation: opacity-out forwards;
-	animation-duration: 1.5s;
+	animation-duration: 1s;
 }
 
 nav.navbar .nav-item .menu#inactive .menu-wrapper span:last-child {
 	animation: rotate-flipped-out forwards;
-	animation-duration: 1.5s;
+	animation-duration: 1s;
 }
 
 nav.navbar .nav-item .menu#active .menu-wrapper span:first-child {
 	animation: rotate-in forwards;
-	animation-duration: 1.5s;
+	animation-duration: 1s;
 }
 
 nav.navbar .nav-item .menu#active .menu-wrapper span:nth-child(2) {
 	animation: opacity-in forwards;
-	animation-duration: 1.5s;
+	animation-duration: 1s;
 }
 
 nav.navbar .nav-item .menu#active .menu-wrapper span:last-child {
 	animation: rotate-flipped-in forwards;
-	animation-duration: 1.5s;
+	animation-duration: 1s;
 }
 
 nav.navbar .nav-item .menu .dropdown-container {
@@ -173,12 +173,12 @@ nav.navbar.scrolled .nav-item .menu .dropdown-container {
 
 nav.navbar .nav-item .menu#inactive .dropdown-container {
     animation: dropdown-container-out forwards;
-    animation-duration: 1.5s;
+    animation-duration: 1s;
 }
 
 nav.navbar .nav-item .menu#active .dropdown-container {
     animation: dropdown-container-in forwards;
-    animation-duration: 1.5s;
+    animation-duration: 1s;
 }
 
 nav.navbar .nav-item .menu .dropdown-container ul {
@@ -196,13 +196,13 @@ nav.navbar .nav-item .menu .dropdown-container ul {
 
 nav.navbar .nav-item .menu#inactive .dropdown-container ul {
     animation: dropdown-out forwards;
-    animation-duration: 1.5s;
+    animation-duration: 1s;
 }
 
 nav.navbar .nav-item .menu#active .dropdown-container ul {
     display: flex;
     animation: dropdown-in forwards;
-    animation-duration: 1.5s;
+    animation-duration: 1s;
 }
 
 nav.navbar .nav-item .menu .dropdown-container ul li {
@@ -495,7 +495,7 @@ nav.navbar .nav-item .menu .dropdown-container ul li a.active::after {
     position: relative;
     height: 500px;
     width: 100%;
-    background-image: url("../img/hypnoticaudio.jpg");
+    background-image: url("../img/hypnotic-audio.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -581,6 +581,7 @@ nav.navbar .nav-item .menu .dropdown-container ul li a.active::after {
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
+    padding-top: 10px;
     text-align: left;
     font-size: 20px;
     font-weight: 400;
@@ -642,7 +643,8 @@ nav.navbar .nav-item .menu .dropdown-container ul li a.active::after {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .section-container section .content .success-story-container .success-story-item {
@@ -677,6 +679,66 @@ nav.navbar .nav-item .menu .dropdown-container ul li a.active::after {
     font-size: 23px;
     font-weight: 300;
     padding-bottom: 5px;
+}
+
+.section-container section .content .card-container {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.section-container section .content .card-container .card {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 95%;
+    max-width: 400px;
+    background: var(--white);
+    box-shadow: 0px 0px 15px #00000050;
+    border-radius: 15px;
+    padding-bottom: 15px;
+}
+
+.section-container section .content .card-container .card img {
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.section-container section .content .card-container .card .title {
+    align-self: center;
+    padding-top: 15px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.section-container section .content .card-container .card .subtitle {
+    align-self: center;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.section-container section .content .card-container .card .content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.section-container section .content .card-container .card .content p {
+    align-self: flex-start;
+}
+
+.section-container section .content .card-container .card .content p.price {
+    align-self: center;
 }
 
 /* .section-container section:first-child {
@@ -1015,4 +1077,107 @@ footer .footer-main-wrapper .footer-item-socials ul.socials li a img {
         display: none;
         opacity: 0;
     }
+}
+
+/* --------------------- */
+/* |   MEDIA QUERIES   | */
+/* --------------------- */
+
+@media (max-width: 360px) {
+
+    /* ---------------------- */
+    /* |   NAVBAR STYLING   | */
+    /* ---------------------- */
+
+    nav.navbar .nav-item a h1.logo {
+        display: none;
+    }
+
+    nav.navbar .nav-item .menu .dropdown-container {
+        width: calc(100% - 10px);
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    /* ---------------------- */
+    /* |   HEADER STYLING   | */
+    /* ---------------------- */
+    
+    .hero .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .hero .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .about .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .about .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .successstories .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .successstories .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .contact .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .contact .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .whatisrtt .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .whatisrtt .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .workingwithme .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .workingwithme .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .audios .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+.audios .text-container h1 {
+    border-radius: 0;
+}
+
+@media (max-width: 480px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 1280px) {
+
 }
