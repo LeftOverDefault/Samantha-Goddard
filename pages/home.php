@@ -64,7 +64,7 @@
 <div class="section-container">
     <section>
         <h1 class="title">About Me</h1>
-        <div class="content">
+        <div class="content" style="width:100%;">
             <p><big>Hi</big>, I'm Samantha Goddard, Rapid Transformational Therapist and Member of the Royal Society for Public Health. I can help you to achieve your goals and feel confident, calm and in control.</p>
             <p>No matter how long you've been struggling or how overwhelming or impossible your problems seem right now, I can help you to take control and completely transform how you feel. You'll begin to feel the changes from your very first session, and over the course of your treatment, you'll continue to experience new breakthroughs, usually in as little as 1 to 3 sessions. That's why this treatment is called Rapid.</p>
             <div class="comment-container">

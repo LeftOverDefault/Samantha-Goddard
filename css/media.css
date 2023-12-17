@@ -1,0 +1,348 @@
+@media (max-width: 360px) {
+
+    nav.navbar .nav-item a h1.logo {
+        display: none;
+    }
+
+    nav.navbar .nav-item .menu .dropdown-container {
+        width: calc(100% - 10px);
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    nav.navbar .nav-item .links-container {
+        display: none;
+    }
+
+    nav.navbar .nav-item .menu {
+        display: flex;
+    }
+
+    /* ---------------------- */
+    /* |   HEADER STYLING   | */
+    /* ---------------------- */
+    
+    .hero .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .hero .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .about .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .about .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .successstories .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .successstories .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .contact .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .contact .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .whatisrtt .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .whatisrtt .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .workingwithme .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .workingwithme .text-container h1 {
+        border-radius: 0;
+    }
+    
+    .audios .text-container {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .section-container section .content .success-story-container .success-story-item img {
+        width: 100px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+        border-radius: 50%;
+        box-shadow: 0px 0px 15px #00000050;
+    }
+    nav.navbar .nav-item a h1.logo {
+        display: none;
+    }
+}
+
+
+/* SMALL MOBILE */
+@media (min-width: 360px) {
+    /* ---------------------- */
+    /* |   NAVBAR STYLING   | */
+    /* ---------------------- */
+
+
+    nav.navbar .nav-item .menu .dropdown-container {
+        width: calc(100% - 10px);
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    nav.navbar .nav-item .links-container {
+        display: none;
+    }
+
+    nav.navbar .nav-item .menu {
+        display: flex;
+    }
+    nav.navbar .nav-item a h1.logo {
+        display: inline;
+    }
+}
+
+/* MOBILE */
+@media (min-width: 480px) {
+
+    nav.navbar .nav-item .menu .dropdown-container {
+        width: calc(100% - 150px);
+        margin-left: 75px;
+        margin-right: 75px;
+    }
+}
+
+/* TABLET */
+@media (min-width: 767px) {
+    nav.navbar .nav-item .menu .dropdown-container {
+        width: calc(100% - 150px);
+        margin-left: 75px;
+        margin-right: 75px;
+    }
+}
+
+/* LAPTOP */
+@media (min-width: 1024px) {
+
+    nav.navbar .nav-item .menu {
+        display: none;
+    }
+
+    nav.navbar .nav-item .links-container {
+        display: flex;
+    }
+
+    * {
+        font-size: 22px;
+    }
+
+    .section-container {
+        top: -45px;
+        width: calc(100% - 60px);
+        margin-left: 30px;
+        margin-right: 30px;
+        border-radius: 30px;
+    }
+
+    .section-container section:first-child {
+        border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+    }
+
+    .section-container section:last-child {
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+    }
+
+    .button-container {
+        flex-direction: row;
+    }
+
+    /* ---------------------- */
+    /* |   HEADER STYLING   | */
+    /* ---------------------- */
+
+    .hero {
+        position: relative;
+    }
+
+    .hero .text-container {
+        position: absolute;
+        justify-content: center;
+        width: 400px;
+        right: 10%;
+        margin: 0;
+    }
+    
+    .hero .text-container h1 {
+        font-size: 36px;
+        border-radius: 15px;
+    }
+
+    .about {
+        position: relative;
+    }
+
+    .about .text-container {
+        position: absolute;
+        justify-content: center;
+        width: 400px;
+        left: 5%;
+        margin: 0;
+    }
+
+    .about .text-container h1 {
+        font-size: 36px;
+        border-radius: 15px;
+    }
+
+    .successstories {
+        position: relative;
+    }
+
+    .successstories .text-container {
+        position: absolute;
+        justify-content: center;
+        width: 400px;
+        left: 10%;
+        margin: 0;
+    }
+
+    .successstories .text-container h1 {
+        font-size: 36px;
+        border-radius: 15px;
+    }
+
+    .contact {
+        position: relative;
+    }
+
+    .contact .filter {
+        z-index: 0;
+        width: 100%;
+        height: 100%;
+        backdrop-filter: brightness(0.9);
+    }
+
+    .contact .text-container {
+        position: absolute;
+        justify-content: center;
+        width: 400px;
+        left: 10%;
+        margin: 0;
+    }
+
+    .contact .text-container h1 {
+        font-size: 36px;
+        border-radius: 15px;
+    }
+
+    .whatisrtt {
+        position: relative;
+    }
+
+    .whatisrtt .text-container {
+        position: absolute;
+        justify-content: center;
+        width: 400px;
+        left: 5%;
+        margin: 0;
+    }
+
+    .whatisrtt .text-container h1 {
+        font-size: 36px;
+        border-radius: 15px;
+    }
+
+    .workingwithme {
+        position: relative;
+    }
+
+    .workingwithme .text-container {
+        position: absolute;
+        justify-content: center;
+        width: 400px;
+        left: 20%;
+        margin: 0;
+    }
+
+    .workingwithme .text-container h1 {
+        font-size: 36px;
+        border-radius: 15px;
+    }
+
+    .audios {
+        position: relative;
+    }
+
+    .audios .text-container {
+        position: absolute;
+        justify-content: center;
+        width: 400px;
+        left: 10%;
+        margin: 0;
+    }
+
+    .audios .text-container h1 {
+        font-size: 36px;
+        border-radius: 15px;
+    }
+
+    footer .footer-main-wrapper {
+        flex-direction: row;
+        gap: 100px;
+    }
+}
+
+
+/* MONITOR */
+@media (min-width: 1280px) {
+
+    * {
+        font-size: 22px;
+    }
+
+    .section-container {
+        top: -45px;
+        width: calc(100% - 60px);
+        margin-left: 30px;
+        margin-right: 30px;
+        border-radius: 30px;
+    }
+
+    .section-container section {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .section-container section:first-child {
+        border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+    }
+
+    .section-container section:last-child {
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+    }
+
+    .button-container {
+        flex-direction: row;
+    }
+}

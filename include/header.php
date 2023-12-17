@@ -70,3 +70,4 @@ switch ($current_page) {
 <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico">
 <link rel="icon" type="image/x-icon" href="./img/favicon.ico">
 <link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="./css/media.css">
