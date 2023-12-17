@@ -553,7 +553,7 @@ nav.navbar .nav-item .links-container ul.links li a.active::after {
     height: 600px;
     width: 100%;
     background-image: url("../img/hypnotic-audio.jpg");
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
     aspect-ratio: auto;
