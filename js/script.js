@@ -15,7 +15,12 @@ menuToggle.addEventListener("click", () => {
     }
 });
 
+menuToggle.addEventListener("blur", () => {
+    menuToggle.id = "inactive";
+});
+
 document.addEventListener("scroll", () => {
+    menuToggle.id = "inactive";
     if (window.scrollY > 0) {
         navbar.classList.add("scrolled");
     } else {
