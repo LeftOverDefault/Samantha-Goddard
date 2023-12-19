@@ -754,6 +754,7 @@ nav.navbar .nav-item .links-container ul.links li a.active::after {
     flex-direction: row;
     flex-wrap: wrap;
     gap: 30px;
+    width: 100%;
 }
 
 .section-container section .content .card-container .card {
