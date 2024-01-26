@@ -74,6 +74,8 @@ nav.navbar .nav-item {
     justify-content: center;
     flex-direction: row;
     z-index: 2;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 nav.navbar .nav-item a {
@@ -165,6 +167,7 @@ nav.navbar .nav-item .menu .dropdown-container {
 }
 
 nav.navbar.scrolled .nav-item .menu .dropdown-container {
+    animation: none;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     border-top-left-radius: 0px;

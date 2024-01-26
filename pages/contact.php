@@ -13,7 +13,7 @@
             <p>Alternatively feel free to email me at <a href="mailto:sam@samantha-goddard.com">sam@samantha-goddard.com</a> or connect with me on social. I look forward to hearing from you.</p>
         </div>
         <div class="button-container">
-            <a href="https://app.10to8.com/book/speaktosam/" target="_blank">
+            <a href="https://app.hellobonsai.com/s/sam-goddard/consultationcall" target="_blank">
                 <button type="button" class="button">Book A Call</button>
             </a>
         </div>

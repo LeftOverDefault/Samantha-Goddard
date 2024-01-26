@@ -30,7 +30,7 @@
             <p>Looking at these scenes through adult eyes, you can give new meaning to them and remove any irrational beliefs that you may have formed as a child. After looking over three or four scenes from your life and working together to understand their meaning for you, I then give your mind suggestions, upgrading you with new helpful, supportive beliefs that are in line with what you want for yourself and your life. You then receive a recording following your session, which you listen to for at least 21 days.</p>
             <p>The mind learns by repetition and by hearing these suggestions every day you are programming yourself with habits of thought which will lead to the right habits of action. This is why RTT works so well for breaking habits like smoking or emotional eating, but it is also brilliant for confidence issues, low self-worth, depression, anxiety and much more.</p>
             <div class="button-container">
-                <a href="https://app.10to8.com/book/speaktosam/" target="_blank">
+                <a href="https://app.hellobonsai.com/s/sam-goddard/consultationcall" target="_blank">
                     <button type="button" class="button">Book A Call</button>
                 </a>
             </div>

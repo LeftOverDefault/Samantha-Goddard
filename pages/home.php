@@ -21,7 +21,7 @@
             <p>Using my skills in Rapid Transformational Therapy I help you find the root cause of what's been keeping you stuck. Transforming old unhelpful beliefs and creating new powerful ones that empower and motivate you to create the lasting permanent change you've been looking for.</p>
             <p>Becoming fitter, healthier, slimmer and stronger, feeling good in yourself and confident in your body.</p>
             <div class="button-container">
-                <a href="https://app.10to8.com/book/speaktosam/" target="_blank">
+                <a href="https://app.hellobonsai.com/s/sam-goddard/consultationcall" target="_blank">
                     <button type="button">Book A Call</button>
                 </a>
                 <a href="#home">
@@ -113,7 +113,7 @@
         <div class="content">
             <p>I have a genuine commitment to your transformation, I'll be your biggest cheerleader, motivating, supporting, and facilitating your breakthrough from self-doubt and limiting self-beliefs to live life on your terms as the fullest expression of yourself.</p>
             <div class="button-container">
-                <a href="https://app.10to8.com/book/speaktosam/" target="_blank">
+                <a href="https://app.hellobonsai.com/s/sam-goddard/consultationcall" target="_blank">
                     <button type="button" class="button">Book A Call</button>
                 </a>
                 <a href="./workingwithme">
