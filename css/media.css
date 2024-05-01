@@ -229,6 +229,11 @@
         border-radius: 15px;
     }
 
+    .freeguide {
+        position: relative;
+        height: 700px;
+    }
+
     .contact {
         position: relative;
     }

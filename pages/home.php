@@ -157,3 +157,24 @@
         </div>
     </section>
 </div>
+
+<div class="freeguide">
+    <!-- <div class="text-container"> -->
+        <!-- <h1>My Clients Experience of RTT</h1> -->
+    <!-- </div> -->
+</div>
+
+<div class="section-container">
+    <section>
+        <h1 class="title">Get My Free Guide</h1>
+        <h3 class="subtitle">“Seven Steps to Weight Loss Success”</h3>
+        <div class="content">
+            <p>Sign up to receive my emails full of top tips to transform your mindset, have a more positive relationship with your body and improve your health and receive my free guide to start shedding unwanted weight in a healthy, more relaxed way.</p>
+            <div class="button-container">
+                <a href="http://eepurl.com/h7iwOL" target="_blank">
+                    <button type="button" class="button">Sign Me Up!</button>
+                </a>
+            </div>
+        </div>
+    </section>
+</div>

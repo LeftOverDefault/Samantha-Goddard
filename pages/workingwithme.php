@@ -55,29 +55,81 @@
             <div class="card-container">
                 <div class="card">
                     <img src="./img/laptop.jpg" alt="">
-                    <h1 class="title">Feel Empowered</h1>
-                    <h3 class="subtitle">1 Month Programme</h3>
+                    <h1 class="title">The Rapid Transformation Programme</h1>
+                    <h3 class="subtitle">One Month Programme</h3>
                     <div class="content">
-                        <p>A Rapid Transformational Therapy Session (1.5 to 2 hours). A Bespoke Hypnotic Recording, to code in new supportive beliefs and overwrite old redundant patterns. Weekly Follow Up Calls, for the duration of your programme (20 minutes each). Includes a Power Hour Session at the end of your programme.</p>
-                        <p>Ideal for increasing confidence, overcoming procrastination, fear of public speaking or exam nerves, also for recommended for some sleep issues, fears and phobias.</p>
+                        <p>A Rapid Transformational Therapy Session (2 hours) Including a bespoke Hypnotic Recording, to code in new supportive beliefs and overwrite old redundant patterns.</p>
+                        <p>Plus, Weekly Progress Calls, incorporating therapy and coaching for the duration of your programme (4 x 30 minutes).</p>
+                        <p>The one-month programme is Ideal for increasing confidence and self-esteem, overcoming anxiety and stress, fear of public speaking, exam nerves, also for recommended for some sleep issues, fears and phobias.</p>
+                        <p class="price"><big>£374</big><br>(£93.50 / hour)</p>
                     </div>
                 </div>
                 <div class="card">
                     <img src="./img/notebook.jpg" alt="">
-                    <h1 class="title">Life Transformation</h1>
-                    <h3 class="subtitle">1 Month Programme</h3>
+                    <h1 class="title">The Empowered Transformation Programme</h1>
+                    <h3 class="subtitle">Two Month Programme</h3>
                     <div class="content">
-                        <p>Three Rapid Transformational Therapy Sessions (1.5 to 2 hours per session) 3 Bespoke Hypnotic Recordings to code in new supportive beliefs and overwrite old redundant patterns. Weekly Follow Up Calls, for the duration of your programme (20 minutes).</p>
-                        <p>Recommended for weight and eating issues, anxiety, depression, alcohol addiction, Stress, and issues you've had for many years.</p>
+                        <p>Two Rapid Transformational Therapy Sessions (2 hours each, 5 weeks apart) Including two bespoke Hypnotic Recording, to code in new supportive beliefs and overwrite old redundant patterns.</p>
+                        <p>Plus, Weekly Progress Calls, incorporating therapy and coaching for the duration of your programme (8 x 30 minutes).</p>
+                        <p>The two-month programme is recommended for overcoming high anxiety, guilt and stress, low-self-esteem and confidence issues, fears and phobias.</p>
+                        <p></p>
+                        <p class="price"><big>£680</big><br>(£85 / hour)</p>
                     </div>
                 </div>
                 <div class="card">
                     <img src="./img/phone.jpg" alt="">
-                    <h1 class="title">Ongoing Support</h1>
+                    <h1 class="title">The Complete Transformation Programme</h1>
+                    <h3 class="subtitle">Three Month Programme</h3>
                     <div class="content">
-                        <p>Following your treatment programme, you may decide to continue working with me, either one to one or by joining one of my group programmes.</p>
-                        <p>This has proven useful for those on weight loss journeys, and experiencing big life transitions like changing jobs, getting married, moving home/country.</p>
-                        <p>It's a great way to continue to celebrate your successes and keep you on target to your long term goals, feeling supported, motivated and accountable.</p>
+                        <p>Three Rapid Transformational Therapy Sessions (2 hours per session, sessions 5 weeks apart) 3 Bespoke Hypnotic Recordings to code in new supportive beliefs and overwrite old redundant patterns.</p>
+                        <p>Weekly Follow Up Calls, for the duration of your programme (12 x 30-minute sessions).</p>
+                        <p>Support via WhatsApp and email for the duration of your programme.</p>
+                        <p>Recommended for most weight and emotional eating issues, anxiety, depression, low self-esteem, alcohol addiction, stress, and issues you've had for many years.</p>
+                        <p class="price"><big>£1020</big><br>(£85 / hour)</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="./img/rtt-hypnotherapy.jpg" alt="">
+                    <h1 class="title">The Body Transformation Programme</h1>
+                    <h3 class="subtitle">Four Month Programme</h3>
+                    <div class="content">
+                        <p>Four Month Programme including 4 Rapid Transformational Therapy Sessions, a month apart.</p>
+                        <p>4 Bespoke Hypnotic Recordings to code in new supportive beliefs and overwrite old redundant patterns and habits.</p>
+                        <p>Weekly Follow Up Calls, for the duration of your programme incorporating nutrition support (16 x 30-minute sessions).</p>
+                        <p>Support via WhatsApp and email for the duration of your programme.</p>
+                        <p>Recommended for weight loss, emotional eating issues, body dysmorphia, low self-esteem and self-worth, confidence and body confidence issues, anxiety, depression, and stress.</p>
+                        <p class="price"><big>£1360</big><br>(£85 / hour)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <h1 class="title">Continuing your Journey</h1>
+        <h3 class="subtitle">Ongoing Support</h3>
+        <div class="content">
+            <p>Following your RTT programme, you may choose to continue working together, with access to ongoing support and accountability.</p>
+            <p>This has proven beneficial for those on weight loss journeys, and those experiencing big life transitions like changing jobs, getting married, moving home/country.</p>
+            <p>It's a great way to continue to celebrate your successes and keep you on target to your longer-term goals, feeling supported, motivated and accountable.</p>
+            <div class="card-container">
+                <div class="card">
+                    <img src="./img/hypnotherapy-sevenoaks.jpg" alt="">
+                    <h1 class="title">RTT Booster Sessions</h1>
+                    <div class="content">
+                        <p>A 30-minute appointment to map out your goal, followed by an hour of RTT to remove any limiting beliefs surrounding that goal and wire in new beliefs that motivate you to take action.</p>
+                        <p>Includes a bespoke hypnotic audio to listen to for 30 days.</p>
+                        <p class="price"><big>£200</big></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="./img/anxiety-help-hypnosis.jpg" alt="">
+                    <h1 class="title">One to one Progress Calls.</h1>
+                    <div class="content">
+                        <p>Following on from your RTT programme, you may benefit from either a weekly, fortnightly or monthly call.</p>
+                        <p>It's a great way to continue to celebrate your successes, overcome any hurdles and keep you on target to your long-term goals.</p>
+                        <p>Feeling supported, motivated and accountable.</p>
+                        <p>May include short hypnotherapy interventions.</p>
+                        <p class="price"><big>£45</big></p>
                     </div>
                 </div>
             </div>
