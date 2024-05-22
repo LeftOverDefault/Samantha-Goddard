@@ -28,6 +28,9 @@
             case "workingwithme":
                 include_once("./pages/workingwithme.php");
                 break;
+            case "workingwithschools":
+                include_once("./pages/workingwithschools.php");
+                break;
             case "audios":
                 include_once("./pages/audios.php");
                 break;

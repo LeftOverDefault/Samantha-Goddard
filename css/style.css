@@ -1143,19 +1143,19 @@ footer .footer-main-wrapper .footer-item-socials ul.socials li a img {
         height: 0;
     }
     50% {
-        height: 250px;
+        height: 300px;
     }
     100% {
-        height: 250px;
+        height: 300px;
     }
 }
 
 @keyframes dropdown-container-out {
     0% {
-        height: 250px;
+        height: 300px;
     }
     50% {
-        height: 250px;
+        height: 300px;
     }
     100% {
         height: 0;

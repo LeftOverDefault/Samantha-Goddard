@@ -24,6 +24,7 @@
                     <li><a class="<?php if ($current_page == "") {echo "active";} ?>" href="./">Home</a></li>
                     <li><a class="<?php if ($current_page == "whatisrtt") {echo "active";} ?>" href="./?p=whatisrtt">What Is RTT</a></li>
                     <li><a class="<?php if ($current_page == "workingwithme") {echo "active";} ?>" href="./?p=workingwithme">Working With Me</a></li>
+                    <li><a class="<?php if ($current_page == "workingwithschools") {echo "active";} ?>" href="./?p=workingwithschools">Working With Schools</a></li>
                     <li><a class="<?php if ($current_page == "audios") {echo "active";} ?>" href="./?p=audios">Audios</a></li>
                     <li><a class="<?php if ($current_page == "contact") {echo "active";} ?>" href="./?p=contact">Contact</a></li>
                 </ul>
@@ -34,6 +35,7 @@
                 <li><a class="<?php if ($current_page == "") {echo "active";} ?>" href="./">Home</a></li>
                 <li><a class="<?php if ($current_page == "whatisrtt") {echo "active";} ?>" href="./?p=whatisrtt">What Is RTT</a></li>
                 <li><a class="<?php if ($current_page == "workingwithme") {echo "active";} ?>" href="./?p=workingwithme">Working With Me</a></li>
+                <li><a class="<?php if ($current_page == "workingwithschools") {echo "active";} ?>" href="./?p=workingwithschools">Working With Schools</a></li>
                 <li><a class="<?php if ($current_page == "audios") {echo "active";} ?>" href="./?p=audios">Audios</a></li>
                 <li><a class="<?php if ($current_page == "contact") {echo "active";} ?>" href="./?p=contact">Contact</a></li>
             </ul>
